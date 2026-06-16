@@ -44,6 +44,8 @@ It runs on your machine. Your books stay on your machine. Nothing phones home.
 <br/>
 
 ```
+<img width="1372" height="834" alt="image" src="https://github.com/user-attachments/assets/63fd7751-ebe5-4db5-988c-0bf5e2c41d1d" />
+
 ┌─────────────────────────────────────────────────────────────────┐
 │  𝔉 Folio          [Open PDF]  [🌿 Focus]  [⚙ Settings]  [✦ Lyra] │
 ├──────────────────────────────────────────┬──────────────────────┤
