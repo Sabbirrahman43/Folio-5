@@ -232,6 +232,6 @@ Built by **[Sabbir Rahman](https://github.com/Sabbirrahman43)** · Bangladesh �
 
 <br/>
 
-**[⬇ Download for Windows](https://github.com/Sabbirrahman43/folio/releases)**
+**[⬇ Download for Windows](https://github.com/Sabbirrahman43/Folio-5/releases)**
 
 </div>
